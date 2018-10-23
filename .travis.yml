@@ -12,7 +12,7 @@ branches:
 
 cache:
   directories:
-  - $HOME/.gradle
+  - $HOME/SortingGiven/SortingGiven/.gradle
 
 before_script:
   - git fetch
